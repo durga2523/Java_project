@@ -1,0 +1,10 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+// This is a simple Java program that prints 'Hello, World!'
+// It demonstrates the basic structure of a Java program.
+// Written by ChatGPT
+// May 20, 2024
